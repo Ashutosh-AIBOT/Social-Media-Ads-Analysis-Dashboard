@@ -2,7 +2,7 @@
 
 A full end-to-end data analysis and machine learning project on 300,000 social media ad campaigns across 4 channels, 50 companies, and 5 customer segments — built entirely in Python with an interactive React dashboard.
 
-**Live Dashboard → [social-ads-dashboard.vercel.app](https://social-ads-dashboard.vercel.app)**
+**Live Dashboard → [social-ads-dashboard.vercel.app](.....)**
 
 ---
 
