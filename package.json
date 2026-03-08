@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "react-scripts": "^5.0.1",
     "recharts": "^3.8.0"
   }
 }
